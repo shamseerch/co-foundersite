@@ -1,0 +1,24 @@
+	.error_form {
+    font-size: 10px;
+    font-family: Arial;
+    color: #FF0052;
+
+}
+input[type="text"]
+{
+    border-width: 1px;
+    
+}
+input[type="number"]
+{
+    border-width: 1px;
+    
+}
+input[type="password"]
+{
+    border-width: 1px;
+    
+}
+
+
+
